@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Reset CSS */
+* {
+   margin: 0;
+   padding: 0;
+   font-family: 'Montserrat', Sans-Serif;
+   font-size: 24px;
+}
+
+/* animations */
+@keyframes Card {
+  from {
+    transform: translateY(55%) scale(.65);
+  } to {
+    transform: translateY(0) scale(1);
+  }
+}
+
+@keyframes Slide {
+  from {
+    transform: translateX(-55%) scale(.65);
+  } to {
+    transform: translateY(0) scale(1);
+  }
+}
+/* Animation class */
+.card-animation {
+  animation: Card .5s ease-in-out forwards;
+}
+
+.slide-animation {
+  animation: Slide .5s ease-in-out forwards;
+}
+
+/* Clicked element */
+.clicked:active {
+  transform: scale(.65);
+}
