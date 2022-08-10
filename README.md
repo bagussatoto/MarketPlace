@@ -1,4 +1,4 @@
-<h3 align="center">Marketplace 1</h3>
+<h3 align="center">Marketplace</h3>
 <p align="center">Slicing project #06</p>
 
 <img src="./src/assets/banner.png" width="100%" alt="">
@@ -21,14 +21,10 @@ by [@shreaygoyal](https://instagram.com/shreaygoyal?utm_medium=copy_link)
 - Acode code editor
 
 ### Clone This Repo
-- <code>git clone https://github.com/or-abdillh/marketplace-1.git </code>
-- <code>cd marketplace-1</code>
+- <code>git clone https://github.com/bagussatoto/MarketPlace.git </code>
+- <code>cd marketplace</code>
 - <code>npm install</code>
 - <code>npm run dev</code>
 
 ### Demo 
-- [Marketplace](https://marketplace-1.vercel.app/)
-
-[Oka R Abdillah ](http://github.com/or-abdillh)
-<br>
-Last edited on : 12/01/2022
+[Bagus Budi Satoto ](http://github.com/bagussatoto)
