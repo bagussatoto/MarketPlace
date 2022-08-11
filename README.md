@@ -1,5 +1,4 @@
 <h3 align="center">Marketplace</h3>
-<p align="center">Slicing project #06</p>
 
 <img src="./src/assets/banner.png" width="100%" alt="">
 
